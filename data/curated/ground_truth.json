@@ -1,0 +1,92 @@
+{
+  "What courses does Prof. Tomás Lozano-Pérez teach besides Introduction to Machine Learning?": {
+    "type": "course_list",
+    "answer": [
+      "Introduction to Electrical Engineering and Computer Science I",
+      "Techniques in Artificial Intelligence (SMA 5504)"
+    ]
+  },
+  "What are the most recent courses on cognitive science?": {
+    "type": "course_list",
+    "answer": [
+      "The Human Intelligence Enterprise",
+      "Affective Computing",
+      "Brains, Minds and Machines Summer Course",
+      "Minds and Machines",
+      "Principles of Autonomy and Decision Making"
+    ]
+  },
+  "Which courses share an instructor with Introduction to Machine Learning?": {
+    "type": "course_list",
+    "answer": [
+      "Introduction to Electrical Engineering and Computer Science I",
+      "Mobile Autonomous Systems Laboratory",
+      "Techniques in Artificial Intelligence (SMA 5504)"
+    ]
+  },
+  "What topics co-occur most frequently with cognitive science?": {
+    "type": "topic_list",
+    "answer": [
+      {
+        "topic": "AI",
+        "count": 11
+      },
+      {
+        "topic": "Machine Learning",
+        "count": 11
+      },
+      {
+        "topic": "Computer Science",
+        "count": 11
+      },
+      {
+        "topic": "Algorithms and Data Structures",
+        "count": 4
+      },
+      {
+        "topic": "Psychology",
+        "count": 3
+      },
+      {
+        "topic": "Electrical Engineering",
+        "count": 2
+      },
+      {
+        "topic": "Mathematics",
+        "count": 2
+      }
+    ]
+  },
+  "What courses are related to Affective Computing?": {
+    "type": "course_list",
+    "answer": [
+      "Brains, Minds and Machines Summer Course",
+      "Minds and Machines",
+      "Machine Learning",
+      "Natural Language and the Computer Representation of Knowledge",
+      "Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context",
+      "Pattern Recognition for Machine Vision",
+      "Principles of Autonomy and Decision Making",
+      "Statistical Learning Theory and Applications",
+      "Techniques in Artificial Intelligence (SMA 5504)",
+      "The Human Intelligence Enterprise"
+    ]
+  },
+  "What courses discuss the societal impact of technology?": {
+    "type": "course_list",
+    "answer": [
+      "Ambient Intelligence",
+      "Brave New Planet",
+      "Day of AI",
+      "Ethics for Engineers: Artificial Intelligence",
+      "Ethics of AI Bias",
+      "Exploring Fairness in Machine Learning for International Development",
+      "How to AI (Almost) Anything",
+      "Media Literacy in the Age of Deepfakes",
+      "Minds and Machines",
+      "RAISE (Responsible AI for Social Empowerment and Education)",
+      "Social and Ethical Responsibilities of Computing (SERC)",
+      "Special Topics in Media Technology: Cooperative Machines"
+    ]
+  }
+}

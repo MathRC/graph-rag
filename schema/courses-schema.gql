@@ -1,0 +1,43 @@
+type Course {
+  title: String
+  description: String
+  url: String
+  course_number: String
+  availability: String
+  year: Int
+  hasTopicTopic: Topic @relationship(type: "HAS_TOPIC", direction: OUT)
+  taughtByInstructor: Instructor @relationship(type: "TAUGHT_BY", direction: OUT)
+  hasTopicTopic: Topic @relationship(type: "HAS_TOPIC", direction: OUT)
+  hasTopicTopic: Topic @relationship(type: "HAS_TOPIC", direction: OUT)
+}
+
+type Topic {
+  name: String
+  level: parent
+  courseHasTopic: Course @relationship(type: "HAS_TOPIC", direction: IN)
+  topicChildOf: Topic @relationship(type: "CHILD_OF", direction: IN)
+}
+
+type Instructor {
+  name: String
+  courseTaughtBy: Course @relationship(type: "TAUGHT_BY", direction: IN)
+}
+
+type Topic {
+  name: String
+  level: child
+  courseHasTopic: Course @relationship(type: "HAS_TOPIC", direction: IN)
+  childOfTopic: Topic @relationship(type: "CHILD_OF", direction: OUT)
+  relatedToTopic: Topic @relationship(type: "RELATED_TO", direction: OUT, properties: "RelatedTo")
+}
+
+type Topic {
+  name: String
+  level: child
+  courseHasTopic: Course @relationship(type: "HAS_TOPIC", direction: IN)
+  topicRelatedTo: Topic @relationship(type: "RELATED_TO", direction: IN, properties: "RelatedTo")
+}
+
+interface RelatedTo {
+  weight: Int
+}

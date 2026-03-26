@@ -1,0 +1,27 @@
+# Core data processing
+pandas==2.3.3
+numpy==2.3.5
+
+# Visualization
+matplotlib==3.10.8
+ipython==9.7.0
+
+# Graph database
+neo4j==6.1.0
+
+# Graph analytics
+networkx==3.3
+python-louvain==0.16
+
+# LLM
+anthropic==0.83.0
+
+# Embeddings and retrieval
+sentence-transformers==5.2.3
+rank-bm25==0.2.2
+
+# Environment variables
+python-dotenv==1.2.1
+
+# Optional (used for PNG display in notebooks)
+pillow==12.0.0

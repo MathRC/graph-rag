@@ -1,0 +1,117 @@
+[
+  {
+    "question": "What courses does Prof. Tom\u00e1s Lozano-P\u00e9rez teach besides Introduction to Machine Learning?",
+    "naive_retrieved": [
+      "Mathematics of Machine Learning",
+      "Introduction to Machine Learning",
+      "Introduction to Electrical Engineering and Computer Science I",
+      "Machine Learning",
+      "Medical Decision Support"
+    ],
+    "naive_answer": "Based on the retrieved course records, Prof. Tom\u00e1s Lozano-P\u00e9rez teaches:\n\n1. **Introduction to Electrical Engineering and Computer Science I** (6-01SC, 2011) - This course provides an integrated introduction to electrical engineering and computer science using laboratory experiments with mobile robots. It covers fundamental design principles, mathematical modeling, software engineering, linear systems analysis, electronic circuits, and decision-making.\n\nThis is the only other course besides Introduction to Machine Learning that appears in the retrieved records where Prof. Tom\u00e1s Lozano-P\u00e9rez is listed as an instructor. \n\nNote that the information provided may not be comprehensive of all courses Prof. Lozano-P\u00e9rez has taught, as it's limited to the specific course records retrieved for this query.",
+    "graph_method": "template:instructor_lookup",
+    "graph_retrieved": [
+      "Introduction to Machine Learning",
+      "Introduction to Electrical Engineering and Computer Science I",
+      "Techniques in Artificial Intelligence (SMA 5504)"
+    ],
+    "graph_answer": "Based on the knowledge graph results, Prof. Tom\u00e1s Lozano-P\u00e9rez teaches two other courses besides Introduction to Machine Learning:\n\n1. **Introduction to Electrical Engineering and Computer Science I** (2011) - This course provides an integrated introduction to electrical engineering and computer science using laboratory experiments with mobile robots. It focuses on fundamental design principles of modularity and abstraction, mathematical modeling of real systems, software engineering, linear systems analysis, electronic circuits, and decision-making.\n\n2. **Techniques in Artificial Intelligence (SMA 5504)** (2002) - This is a graduate-level introduction to artificial intelligence that covers representation and inference in first-order logic, modern deterministic and decision-theoretic planning techniques, basic supervised learning methods, and Bayesian network inference and learning. This course was also part of the Singapore-MIT Alliance program.\n\nIt's worth noting that Prof. Lozano-P\u00e9rez appears to collaborate with other instructors on these courses, particularly Prof. Leslie Kaelbling who is listed as an instructor for all three courses."
+  },
+  {
+    "question": "What are the most recent courses on cognitive science?",
+    "naive_retrieved": [
+      "The Human Intelligence Enterprise",
+      "Natural Language and the Computer Representation of Knowledge",
+      "Machine Learning",
+      "Minds and Machines",
+      "Foundation Models and Generative AI"
+    ],
+    "naive_answer": "Based on the retrieved courses, the most recent courses that include cognitive science as a topic are:\n\n1. **The Human Intelligence Enterprise (6-803)** - 2019\n   - Focuses on computational understanding of human intelligence\n   - Covers learning, language, vision, reasoning, and cognitive psychology\n   - Instructor: Patrick Henry Winston\n\n2. **Minds and Machines (24-09)** - 2011\n   - Introduction to philosophy of mind\n   - Instructor: Prof. Alex Byrne\n\nThe other courses with cognitive science topics are from earlier years:\n- Machine Learning (6-867) from 2006\n- Natural Language and the Computer Representation of Knowledge (6-863J) from 2003\n\nNote that while \"Foundation Models and Generative AI\" (6-S087) is the most recent course from 2024, it does not specifically list cognitive science among its topics, focusing instead on AI, machine learning, and computer science more broadly.",
+    "graph_method": "template:recent_by_topic",
+    "graph_retrieved": [
+      "The Human Intelligence Enterprise",
+      "Brains, Minds and Machines Summer Course",
+      "Affective Computing",
+      "Minds and Machines",
+      "Principles of Autonomy and Decision Making"
+    ],
+    "graph_answer": "Based on the knowledge graph results, here are the most recent courses on cognitive science from MIT OpenCourseWare:\n\n## Most Recent Cognitive Science Course:\n\n**\"The Human Intelligence Enterprise\" (2019)**\n- Instructor: Patrick Henry Winston\n- This is the most recent cognitive science course in the results, focusing on computational understanding of human intelligence\n- Covers topics like learning, language, vision, commonsense reasoning, story understanding, and analogy\n- Reviews foundational work by Turing, Minsky, and other influential thinkers\n- Integrates insights from brain scanning, developmental psychology, and cognitive psychology\n\n## Other Recent Courses:\n\n**\"Brains, Minds and Machines Summer Course\" (2015)**\n- Instructors: Prof. Tomaso Poggio, Prof. Gabriel Kreiman\n- Interdisciplinary approach integrating cognitive science, neuroscience, and AI\n- Based on materials from the annual summer course at Woods Hole Marine Biological Laboratory\n\n**\"Affective Computing\" (2015)**\n- Instructor: Prof. Rosalind W. Picard\n- Focuses on developing technologies for measuring, communicating, and responding to emotions\n\nThe results show that \"The Human Intelligence Enterprise\" from 2019 is the most recent cognitive science course available. However, these results may not represent the complete catalog of MIT's cognitive science offerings, so there could be more recent courses not captured in this particular query."
+  },
+  {
+    "question": "Which courses share an instructor with Introduction to Machine Learning?",
+    "naive_retrieved": [
+      "Mathematics of Machine Learning",
+      "Introduction to Machine Learning",
+      "Hands-on Deep Learning",
+      "Minds and Machines",
+      "AI 101"
+    ],
+    "naive_answer": "Based on the retrieved course records, I can identify which courses share instructors with \"Introduction to Machine Learning\" (course 6-036).\n\nThe instructors for \"Introduction to Machine Learning\" are:\n- Prof. Leslie Kaelbling\n- Prof. Tom\u00e1s Lozano-P\u00e9rez\n- Prof. Isaac Chuang\n- Prof. Duane Boning\n\nLooking through the other courses in the retrieved records, none of them share any instructors with \"Introduction to Machine Learning.\" The other courses have different instructors:\n\n- AI 101: Brandon Leshchinskiy\n- Hands-on Deep Learning: Prof. Rama Ramakrishnan\n- Mathematics of Machine Learning: Prof. Philippe Rigollet\n- Minds and Machines: Prof. Alex Byrne\n\nTherefore, based on the provided course records, no courses share an instructor with \"Introduction to Machine Learning.\"",
+    "graph_method": "template:shared_instructor",
+    "graph_retrieved": [
+      "Introduction to Electrical Engineering and Computer Science I",
+      "Mobile Autonomous Systems Laboratory",
+      "Techniques in Artificial Intelligence (SMA 5504)"
+    ],
+    "graph_answer": "Based on the knowledge graph results, several courses share instructors with \"Introduction to Machine Learning\":\n\n**Courses sharing instructors:**\n\n1. **Introduction to Electrical Engineering and Computer Science I** (2011)\n   - Shared instructors: Prof. Leslie Kaelbling, Prof. Tom\u00e1s Lozano-P\u00e9rez, and Prof. Isaac Chuang\n   - This course covers electrical engineering and computer science fundamentals using mobile robot experiments\n\n2. **Mobile Autonomous Systems Laboratory** (2005)\n   - Shared instructor: Prof. Leslie Kaelbling\n   - A robotics contest course where students build autonomous robots during MIT's Independent Activities Period\n\n3. **Techniques in Artificial Intelligence (SMA 5504)** (2002)\n   - Shared instructors: Prof. Leslie Kaelbling and Prof. Tom\u00e1s Lozano-P\u00e9rez\n   - A graduate-level AI course covering logic, planning, supervised learning, and Bayesian networks\n\n**Key instructors appearing across multiple courses:**\n- **Prof. Leslie Kaelbling** appears in all three courses that share instructors with Introduction to Machine Learning\n- **Prof. Tom\u00e1s Lozano-P\u00e9rez** appears in two courses (Introduction to EECS I and Techniques in AI)\n- **Prof. Isaac Chuang** appears in Introduction to EECS I\n\nAll of these courses have strong connections to machine learning, AI, and computer science topics, which makes sense given the shared instructors' expertise in these areas."
+  },
+  {
+    "question": "What topics co-occur most frequently with cognitive science?",
+    "naive_retrieved": [
+      "Cognitive Robotics",
+      "Pattern Recognition for Machine Vision",
+      "Natural Language and the Computer Representation of Knowledge",
+      "Machine Learning",
+      "Minds and Machines"
+    ],
+    "naive_answer": "Based on the retrieved course records, I can analyze which topics co-occur most frequently with cognitive science:\n\n**Most frequent co-occurring topics with Cognitive Science:**\n\n1. **AI (Artificial Intelligence)** - appears in all 5 courses\n2. **Machine Learning** - appears in all 5 courses  \n3. **Computer Science** - appears in all 5 courses\n4. **Data Science, Analytics & Computer Technology** - appears in all 5 courses\n5. **Engineering** - appears in all 5 courses\n\n**Other frequently co-occurring topics:**\n- **Science & Math** - appears in 4 out of 5 courses\n- **Electrical Engineering** - appears in 2 courses\n- **Humanities** - appears in 2 courses\n\nThe pattern shows that cognitive science courses in this dataset are most strongly associated with computational and technical fields, particularly AI, machine learning, and computer science. This suggests an interdisciplinary approach where cognitive science intersects heavily with computational methods for understanding and modeling cognition.\n\nHowever, I should note that this analysis is based on only 5 course records, so the patterns observed may not be representative of all cognitive science courses in the MIT OpenCourseWare catalog.",
+    "graph_method": "template:cooccurring_topics",
+    "graph_retrieved": [],
+    "graph_answer": "Based on the knowledge graph results, the topics that co-occur most frequently with cognitive science are:\n\n**Top co-occurring topics (11 co-occurrences each):**\n- **Machine Learning**\n- **Computer Science** \n- **AI (Artificial Intelligence)**\n\nThese three topics from the \"Data Science, Analytics & Computer Technology\" domain show the strongest association with cognitive science courses.\n\n**Other notable co-occurrences:**\n- **Algorithms and Data Structures** (4 co-occurrences)\n- **Psychology** (3 co-occurrences) \n- **Mathematics** (2 co-occurrences)\n- **Electrical Engineering** (2 co-occurrences)\n\nThis pattern makes sense given that cognitive science is an interdisciplinary field that heavily intersects with computational approaches to understanding the mind, artificial intelligence research, and psychological studies. The strong co-occurrence with machine learning and AI topics suggests that many cognitive science courses at MIT incorporate computational modeling and artificial intelligence methods to study cognition."
+  },
+  {
+    "question": "What courses are related to Affective Computing?",
+    "naive_retrieved": [
+      "Affective Computing",
+      "Ambient Intelligence",
+      "Social and Ethical Responsibilities of Computing (SERC)",
+      "Minds and Machines",
+      "Foundation Models and Generative AI"
+    ],
+    "naive_answer": "Based on the retrieved course records, here are the courses related to Affective Computing:\n\n**Directly Related:**\n- **Affective Computing (MAS-630, 2015)** - This is the most directly related course, taught by Prof. Rosalind W. Picard. It specifically focuses on developing technologies to measure and communicate emotion, read and respond to emotion intelligently, and create systems with internal mechanisms inspired by emotions.\n\n**Related Courses:**\n- **Ambient Intelligence (MAS-961, 2005)** - While not exclusively about affective computing, this course covers intelligent and intuitive interfaces, which could include emotion-aware systems as part of ambient computing environments.\n\n- **Minds and Machines (24-09, 2011)** - This philosophy of mind course explores central issues that would be relevant to understanding the theoretical foundations of affective computing, particularly questions about minds, emotions, and machine intelligence.\n\nThe other courses (Foundation Models and Generative AI, and Social and Ethical Responsibilities of Computing) are more tangentially related, as they deal with AI and computing technologies broadly but don't specifically focus on emotion or affect.\n\nThe most comprehensive and directly relevant course would be MAS-630 Affective Computing, which appears to be specifically designed to teach students how to build emotion-aware technologies.",
+    "graph_method": "template:related_courses",
+    "graph_retrieved": [
+      "Brains, Minds and Machines Summer Course",
+      "Minds and Machines",
+      "Machine Learning",
+      "Natural Language and the Computer Representation of Knowledge",
+      "Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context",
+      "Pattern Recognition for Machine Vision",
+      "Principles of Autonomy and Decision Making",
+      "Statistical Learning Theory and Applications",
+      "Techniques in Artificial Intelligence (SMA 5504)",
+      "The Human Intelligence Enterprise"
+    ],
+    "graph_answer": "Based on the knowledge graph results, I can see that **Affective Computing** appears as a neighboring course with 5 shared topics, but unfortunately, the detailed information about the Affective Computing course itself is not included in the query results.\n\nHowever, I can identify several courses that are **closely related** to Affective Computing based on their shared focus areas:\n\n## Most Relevant Courses:\n\n**1. Brains, Minds and Machines Summer Course (2015)**\n- Integrates cognitive science, neuroscience, and AI\n- Covers topics like Psychology, Cognitive Science, and AI\n- Taught by Prof. Tomaso Poggio and Prof. Gabriel Kreiman\n\n**2. Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context (2001)**\n- Focuses on context-sensitive systems that adapt to users\n- Covers machine learning, psychology perspectives on context\n- Taught by Prof. Henry Lieberman\n\n**3. The Human Intelligence Enterprise (2019)**\n- Analyzes computational understanding of human intelligence\n- Covers cognitive psychology and human-computer interaction concepts\n- Taught by Patrick Henry Winston\n\n**4. Minds and Machines (2011)**\n- Philosophy of mind course covering AI and Psychology\n- Taught by Prof. Alex Byrne\n\n## Related Technical Courses:\n- **Pattern Recognition for Machine Vision** - for emotion recognition from visual data\n- **Natural Language and the Computer Representation of Knowledge** - for understanding emotional content in text\n- **Machine Learning** and **Statistical Learning Theory** - for the underlying ML techniques\n\nThe knowledge graph shows Affective Computing has connections to Psychology, Cognitive Science, AI, and Machine Learning - all topics well-represented in these related courses. For the most comprehensive information about the actual Affective Computing course, you would need to search specifically for that course title."
+  },
+  {
+    "question": "What courses discuss the societal impact of technology?",
+    "naive_retrieved": [
+      "Ambient Intelligence",
+      "Social and Ethical Responsibilities of Computing (SERC)",
+      "Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context",
+      "Computational Models of Discourse",
+      "Day of AI"
+    ],
+    "naive_answer": "Based on the retrieved course records, several courses discuss the societal impact of technology:\n\n**Day of AI (RES-MAS-002, 2022)** explicitly focuses on investigating \"the societal impact of these technologies\" as part of its curriculum. This course engages students in learning AI fundamentals while specifically examining how these technologies affect society.\n\n**Social and Ethical Responsibilities of Computing (SERC) (RES-TLL-008, 2025)** is entirely dedicated to this topic. It works to \"assess the broad challenges and opportunities associated with computing\" and trains students to \"practice responsible technology development\" by incorporating insights from humanities and social sciences with an emphasis on social responsibility.\n\n**Ambient Intelligence (MAS-961, 2005)** addresses \"socio-cultural impact\" as part of its focus on human-computer interaction and intelligent interfaces, though this appears to be a lesser component compared to the technical aspects.\n\nThe other courses (Computational Models of Discourse and Out of Context) focus primarily on technical aspects of computing and AI without explicitly mentioning societal impact discussions in their descriptions.\n\nThe SERC course appears to be the most comprehensive resource for societal impact discussions, offering pedagogical materials, case studies, and cross-disciplinary approaches to responsible technology development.",
+    "graph_method": "hybrid_fallback",
+    "graph_retrieved": [
+      "Ambient Intelligence",
+      "Social and Ethical Responsibilities of Computing (SERC)",
+      "Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context",
+      "Computational Models of Discourse",
+      "Day of AI"
+    ],
+    "graph_answer": "Based on the knowledge graph results, several MIT OpenCourseWare courses discuss the societal impact of technology:\n\n## Primary Courses on Technology's Societal Impact:\n\n**1. Social and Ethical Responsibilities of Computing (SERC)** (RES-TLL-008, 2025)\n- This is the most comprehensive resource, specifically designed to address the \"broad challenges and opportunities associated with computing\"\n- Focuses on training students in \"responsible technology development\" and creating \"technologies in the public interest\"\n- Includes case studies, active learning projects, and materials for embedding social responsibility into computing courses\n- Developed by multidisciplinary teams incorporating insights from humanities and social sciences\n\n**2. Day of AI** (RES-MAS-002, 2022)\n- Explicitly designed to help students \"investigate the societal impact of these technologies\" (AI)\n- Educational curriculum that engages students in discussions about AI's broader implications\n- Accessible to those without technical backgrounds, emphasizing the importance of widespread understanding\n\n## Courses with Significant Societal Impact Components:\n\n**3. Ambient Intelligence** (MAS-961, 2005)\n- Addresses \"socio-cultural impact\" of ubiquitous computing and intelligent interfaces\n- Examines how technology becomes embedded in everyday objects and environments\n- Taught by Prof. Patricia Maes\n\n**4. Out of Context** (MAS-963, 2001)\n- Discusses \"implications for design of context-sensitive hardware and software\"\n- Incorporates perspectives from philosophy and psychology alongside technical approaches\n- Taught by Prof. Henry Lieberman\n\nThe SERC initiative appears to be the most comprehensive resource for understanding technology's societal impact, offering pedagogical materials that can be integrated across multiple computing courses to foster responsible technology development."
+  }
+]
